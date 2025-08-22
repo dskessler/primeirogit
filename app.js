@@ -66,10 +66,10 @@ function reiniciarJogo() {
 }
 
 
-// mensagem de teste :) 
+// mensagem de teste RA
 
 // uma segunda mensagem 
 
-
+//uma terceira mensagem surpresa
 
 
