@@ -70,6 +70,6 @@ function reiniciarJogo() {
 
 // uma segunda mensagem 
 
-//uma terceira mensagem surpresa
+
 
 
